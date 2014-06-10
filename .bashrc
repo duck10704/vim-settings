@@ -19,7 +19,7 @@ export LESS_TERMCAP_us=$'\E[01;32m'
 #alias path
 #	alias cd="cd ${HOME}"
 alias cd..="cd .."
-alias grep="grep --color"
+alias grep="grep -i --color"
 
 #alias other
 alias dir="ls -l"
